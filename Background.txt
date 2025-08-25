@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 
+=======
+Language: VISAYA/TAGALOG/ENGLISH
+Person to be Contacted: Clifford Halasan
+Address: Guisan, Magallanes, Agusan Del Norte
+>>>>>>> 18caecc05f2bb07a86f1dbaec49c827895742c72
