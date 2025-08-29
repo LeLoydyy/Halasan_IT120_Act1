@@ -14,13 +14,13 @@ git push -u origin Halasan_B2
 git checkout main
 git checkout -b Halasan_B3
 git add Background.txt
-git rm Test.py
-git commit -m "Updated Background.txt and removed Test.py in branch B3"
+git rm Education.txt Profile.txt Readme.txt test.py
+git commit -m "Kept only Background.txt and removed Education.txt Profile.txt Readme.txt test.py in branch B3"
 git push -u origin Halasan_B3
 
 git checkout main
 git checkout -b Halasan_B4
 git add Readme.txt
 git rm Test.py
-git commit -m "Updated Readme.txt and removed Test.py in branch B4"
+git commit -m "Kept only Readme.txt in branch B4"
 git push -u origin Halasan_B4
