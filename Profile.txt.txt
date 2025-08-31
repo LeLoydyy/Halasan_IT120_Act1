@@ -1,6 +1,0 @@
-Firstname:
-Middlename:
-Lastname:
-Gender:
-Age:
-Contacts:
