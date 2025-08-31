@@ -1,4 +1,4 @@
-Elementary:
-Year Graduated:
-Highschool:
-Year Graduated:
+Elementary: Guiasan Elementary School
+Year Graduated:2017
+Highschool: Agusan National High School
+Year Graduated:2023
