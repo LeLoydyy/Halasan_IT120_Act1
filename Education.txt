@@ -2,5 +2,3 @@ Elementary:
 Year Graduated:
 Highschool:
 Year Graduated:
-College:
-Year Level:
