@@ -1,0 +1,6 @@
+Firstname: James Lloyd
+Middlename: Rebustillo
+Lastname: Halasan
+Gender: Male
+Age: 20
+Contacts: 09922139178
