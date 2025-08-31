@@ -1,6 +1,6 @@
-Firstname: James Lloyd
-Middlename: Rebustillo
-Lastname: Halasan
-Gender: Male
-Age: 20
-Contacts: 09922139178
+Birthplace: P-2 Guiasan, Magallanes, Agusan Del Norte
+Religion: Roman Catholic
+Father's Name: Zheckie Z. Halasan
+Occupation: Delivery Driver
+Mother's Name: Angelita R. Halasan
+Occupation: Office Clerk
